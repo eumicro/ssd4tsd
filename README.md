@@ -11,7 +11,7 @@ Das Modell SSD4TSD ist das Ergebnis meiner Masterarbeit. Es ist in der Lage, 78 
 # Application
 - Das fertige Modell mit 78 Verkehrszeichen findet Ihr hier: http://eugen-lange.de/download/ssd-4-traffic-sign-detection-frozen_inpherence_graph-pb/ 
 
-https://www.youtube.com/watch?v=hcZYYu8u57A
+Demonstration: https://www.youtube.com/watch?v=hcZYYu8u57A
 
 # ROS Integration
 - Das ROS_Package, das die Modelle, zur Verkkehrszeichenerkennung nutzt ist her zu finden.
