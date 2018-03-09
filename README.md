@@ -9,7 +9,7 @@ Das Modell SSD4TSD ist das Ergebnis meiner Masterarbeit. Es ist in der Lage, 78 
 - Zur Generierung der Trainingsdaten wird das Skript.. verwendet. Anstelle von Verkehrszeichen köennen beliebige andere Objekt antrainiert werden.
 
 # Application
-- Das fertige Modell mit 78 Verkehrszeichen findet Ihr hier.... 
+- Das fertige Modell mit 78 Verkehrszeichen findet Ihr hier: http://eugen-lange.de/download/ssd-4-traffic-sign-detection-frozen_inpherence_graph-pb/ 
 
 # ROS Integration
 - Das ROS_Package, das die Modelle, zur Verkkehrszeichenerkennung nutzt ist her zu finden.
